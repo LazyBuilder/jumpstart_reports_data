@@ -1,0 +1,63 @@
+{
+  "business_workbooks": [
+    {
+      "id": "design-iterate",
+      "title": "Business Workbook: Design & Iterate",
+      "description": "Market research for design iteration processes",
+      "url": "https://yourusername.github.io/Jumpstart-Reports-Data/reports/business-workbooks/BusinessWorkBook_DesignIterate.pdf",
+      "published": "2026-04-15",
+      "tags": ["design", "iteration", "market-research"]
+    },
+    {
+      "id": "unzip-logistics",
+      "title": "Business Workbook: Unzip Logistics",
+      "description": "Market research for logistics businesses",
+      "url": "https://yourusername.github.io/Jumpstart-Reports-Data/reports/business-workbooks/BusinessWorkBook_UnzipLogistics.pdf",
+      "published": "2026-04-15",
+      "tags": ["logistics", "market-research"]
+    }
+  ],
+  "fifty_questions": [
+    {
+      "id": "boutique-hotel-managers-housekeeping-assistant",
+      "title": "50 First Questions for Boutique Hotel Managers - Housekeeping Assistant",
+      "description": "Questions to validate your housekeeping assistant business idea for boutique hotels",
+      "url": "https://yourusername.github.io/Jumpstart-Reports-Data/reports/fifty-questions/50%201st%20Questions%20-%20Boutique%20hotel%20managers%20housekeeping%20assistant.pdf",
+      "published": "2026-04-10",
+      "tags": ["hospitality", "validation", "questions"]
+    },
+    {
+      "id": "inefficient-food-waste-management",
+      "title": "50 First Questions for Food Waste Management",
+      "description": "Questions to validate your food waste reduction business idea for restaurants and supermarkets",
+      "url": "https://yourusername.github.io/Jumpstart-Reports-Data/reports/fifty-questions/50%201st%20Questions%20-%20Inefficient%20food%20waste%20management%20in%20restaurants%20and%20supermarkets%20(1).pdf",
+      "published": "2026-04-10",
+      "tags": ["sustainability", "retail", "validation", "questions"]
+    },
+    {
+      "id": "manage-revisions-iterations-graphic-designers",
+      "title": "50 First Questions for Graphic Designers - Manage Revisions & Iterations",
+      "description": "Questions to validate your revision management service for graphic designers",
+      "url": "https://yourusername.github.io/Jumpstart-Reports-Data/reports/fifty-questions/50%201st%20Questions%20-%20Manage%20Revisions%20%26%20Iterations%20for%20Graphic%20Designers.pdf",
+      "published": "2026-04-10",
+      "tags": ["design", "validation", "questions"]
+    },
+    {
+      "id": "mental-health-support-remote-first-workers",
+      "title": "50 First Questions for Mental Health Support - Remote First Workers",
+      "description": "Questions to validate your mental health support service for remote workers",
+      "url": "https://yourusername.github.io/Jumpstart-Reports-Data/reports/fifty-questions/50%201st%20Questions%20-%20Mental%20health%20support%20for%20remote%20first%20workers.pdf",
+      "published": "2026-04-10",
+      "tags": ["healthcare", "remote-work", "validation", "questions"]
+    },
+    {
+      "id": "tailored-nutrition-chronic-diseases",
+      "title": "50 First Questions for Tailored Nutrition Plans - Chronic Diseases",
+      "description": "Questions to validate your tailored nutrition planning service for individuals with chronic diseases",
+      "url": "https://yourusername.github.io/Jumpstart-Reports-Data/reports/fifty-questions/50%201st%20Questions%20-%20Tailored%20nutrition%20plans%20individuals%20with%20chronic%20diseases.pdf",
+      "published": "2026-04-10",
+      "tags": ["healthcare", "nutrition", "validation", "questions"]
+    }
+  ],
+  "special_reports": []
+}
